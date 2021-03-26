@@ -1,5 +1,5 @@
-# Typescript - 고양이 강도 침입 🚨🐈
-<img src="./public/cattheif.gif" width="40%">
+# Typescript - 고양이 강도 침입 🚨 🐈
+<img src="./public/cattheif.gif" width="60%">
 
 #
 > 💻 Programming Language
