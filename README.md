@@ -1,7 +1,6 @@
 # 고양이 강도 침입 🚨 🐈
 <img src="./public/cattheif.gif" width="50%">
-https://cattheif.herokuapp.com/
-
+#
 > 💻 Programming Language
 ------------
 #### TypeScript, React, Redux, Redux-Thunk, Styled-Components
